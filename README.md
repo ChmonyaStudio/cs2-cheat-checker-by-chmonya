@@ -261,6 +261,9 @@ MIT — см. [LICENSE](LICENSE).
 ![Registry scan](screenshots/registry.png)
 ![HTML report](screenshots/report.png)
 
+### 🎬 Demo / Демонстрация
+
+![Demo](screenshots/demo.gif)
 ---
 
 **Made with ❤️ for the CS2 community. / Сделано с ❤️ для CS2-сообщества.**
