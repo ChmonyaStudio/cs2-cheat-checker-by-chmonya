@@ -15,7 +15,7 @@ Forensic scanner for Windows that detects cheat traces across **processes, memor
 
 ### 📦 Download
 
-**[⬇️ Download the latest release](https://github.com/ChmonyaStudioscs2-cheat-checker-by-chmonya/releases/latest)**
+**[⬇️ Download the latest release](https://github.com/ChmonyaStudio/cs2-cheat-checker-by-chmonya/releases/latest)**
 
 Portable `.exe`. No install, no dependencies — just run.
 
@@ -51,7 +51,7 @@ Portable `.exe`. No install, no dependencies — just run.
 ### 🚀 Quick Start
 
 #### 1. Download
-Get `CheatChecker-v3.3.zip` from [Releases](https://github.com/ChmonyaStudioscs2-cheat-checker-by-chmonya/releases/latest).
+Get `CheatChecker-v3.3.zip` from [Releases](https://github.com/ChmonyaStudio/cs2-cheat-checker-by-chmonya/releases/latest).
 
 #### 2. Extract
 ```
@@ -102,7 +102,7 @@ Report tab → JSON / HTML / CSV
 Only if you want to modify:
 
 ```bash
-git clone https://github.com/ChmonyaStudios/cs2-cheat-checker-by-chmonya
+git clone https://github.com/ChmonyaStudio/cs2-cheat-checker-by-chmonya
 cd cs2-cheat-checker
 # Open CS2CheatChecker.sln in Visual Studio 2022
 # Build → Rebuild Solution (Release x64)
@@ -128,7 +128,7 @@ MIT — see [LICENSE](LICENSE).
 ### 💬 Contact
 
 - **Website:** [chmonya.ct.ws](https://chmonya.ct.ws)
-- **GitHub:** [@ChmonyaStudios](https://github.com/ChmonyaStudios)
+- **GitHub:** [@ChmonyaStudios](https://github.com/ChmonyaStudio)
 - **Telegram:** [@p1zdabol4ik](https://t.me/p1zdabol4ik)
 
 ---
@@ -139,7 +139,7 @@ Forensic-сканер для Windows, который ищет следы чит�
 
 ### 📦 Скачать
 
-**[⬇️ Скачать последний релиз](https://github.com/ChmonyaStudioscs2-cheat-checker-by-chmonya/releases/latest)**
+**[⬇️ Скачать последний релиз](https://github.com/ChmonyaStudio/cs2-cheat-checker-by-chmonya/releases/latest)**
 
 Портативный `.exe`. Без установки, без зависимостей.
 
@@ -175,7 +175,7 @@ Forensic-сканер для Windows, который ищет следы чит�
 ### 🚀 Быстрый старт
 
 #### 1. Скачай
-Возьми `CheatChecker-v3.3.zip` из [Releases](https://github.com/ChmonyaStudioscs2-cheat-checker-by-chmonya/releases/latest).
+Возьми `CheatChecker-v3.3.zip` из [Releases](https://github.com/ChmonyaStudio/cs2-cheat-checker-by-chmonya/releases/latest).
 
 #### 2. Распакуй
 ```
@@ -226,7 +226,7 @@ CheatChecker/
 Только если хочешь менять код:
 
 ```bash
-git clone https://github.com/ChmonyaStudios/cs2-cheat-checker-by-chmonya
+git clone https://github.com/ChmonyaStudio/cs2-cheat-checker-by-chmonya
 cd cs2-cheat-checker
 # Открой CS2CheatChecker.sln в Visual Studio 2022
 # Build → Rebuild Solution (Release x64)
@@ -252,7 +252,7 @@ MIT — см. [LICENSE](LICENSE).
 ### 💬 Контакты
 
 - **Сайт:** [chmonya.ct.ws](https://chmonya.ct.ws)
-- **GitHub:** [@ChmonyaStudios](https://github.com/ChmonyaStudios)
+- **GitHub:** [@ChmonyaStudios](https://github.com/ChmonyaStudio)
 - **Telegram:** [@p1zdabol4ik](https://t.me/p1zdabol4ik)
 
 ---
