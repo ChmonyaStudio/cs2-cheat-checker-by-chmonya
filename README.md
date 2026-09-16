@@ -128,7 +128,7 @@ MIT — see [LICENSE](LICENSE).
 ### 💬 Contact
 
 - **Website:** [chmonya.ct.ws](https://chmonya.ct.ws)
-- **GitHub:** [@ChmonyaStudios](https://github.com/ChmonyaStudio)
+- **GitHub:** [@ChmonyaStudio](https://github.com/ChmonyaStudio)
 - **Telegram:** [@p1zdabol4ik](https://t.me/p1zdabol4ik)
 
 ---
@@ -252,7 +252,7 @@ MIT — см. [LICENSE](LICENSE).
 ### 💬 Контакты
 
 - **Сайт:** [chmonya.ct.ws](https://chmonya.ct.ws)
-- **GitHub:** [@ChmonyaStudios](https://github.com/ChmonyaStudio)
+- **GitHub:** [@ChmonyaStudio](https://github.com/ChmonyaStudio)
 - **Telegram:** [@p1zdabol4ik](https://t.me/p1zdabol4ik)
 
 ---
