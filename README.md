@@ -263,7 +263,7 @@ MIT — см. [LICENSE](LICENSE).
 
 ### 🎬 Demo / Демонстрация
 
-![Demo](screenshots/demo.gif)
+![Demo](screenshots/demo_1.gif)
 ---
 
 **Made with ❤️ for the CS2 community. / Сделано с ❤️ для CS2-сообщества.**
