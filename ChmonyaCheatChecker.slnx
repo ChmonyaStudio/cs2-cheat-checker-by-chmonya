@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ChmonyaDLL.vcxproj" Id="fad2d1d0-9943-489a-afae-6dad6bc8c6f2" />
+</Solution>
