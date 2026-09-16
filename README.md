@@ -255,6 +255,12 @@ MIT — см. [LICENSE](LICENSE).
 - **GitHub:** [@ChmonyaStudio](https://github.com/ChmonyaStudio)
 - **Telegram:** [@p1zdabol4ik](https://t.me/p1zdabol4ik)
 
+### 📸 Screenshots / Скриншоты
+
+![Main window](screenshots/main.png)
+![Registry scan](screenshots/registry.png)
+![HTML report](screenshots/report.png)
+
 ---
 
 **Made with ❤️ for the CS2 community. / Сделано с ❤️ для CS2-сообщества.**
